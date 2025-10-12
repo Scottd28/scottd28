@@ -5,11 +5,6 @@
 📫 Reach me at: your.email@example.com  
 
 ---
-
-### 🚀 My Projects
-- [🎮 Bob's Math Adventure](https://github.com/) — React game with on-screen controls  
----
-
 ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
