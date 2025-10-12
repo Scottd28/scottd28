@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm Scott
 🎓 Upcoming BS in Computer Science & BFA in Theatre from Westminster University (27')
+
 💻 Interests: Web & Software Development | Generative AI | UI/UX Design  
 🌎 Currently building: "LiveSound" — a real-time AI music generator  
 📫 Reach me at: your.email@example.com  
