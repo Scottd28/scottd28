@@ -3,12 +3,20 @@
 
 💻 Interests: Web & Software Development | Generative AI | UI/UX Design  
 🌎 Currently building: "LiveSound" — a real-time AI music generator  
-📫 Reach me at: your.email@example.com  
+📫 Reach me at: scottalvaro@icloud.com 
 
 ---
-### 🛠️ Languages & Tools
+
+### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?logo=react)
+![C](https://img.shields.io/badge/-C-333?logo=c)
+![Java](https://img.shields.io/badge/-Java-333?logo=coffeescript)
+![ANTLR](https://img.shields.io/badge/-ANTLR-333?logo=antlr)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js)
+![Runware](https://img.shields.io/badge/-Runware_AI-333?logo=soundcloud)
+![ElevenLabs](https://img.shields.io/badge/-Eleven_Labs-333?logo=elevenlabs)
+![Windsurf](https://img.shields.io/badge/-Windsurf-333?logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
+![VS Code](https://img.shields.io/badge/-VS_Code-333?logo=visualstudiocode)
