@@ -1,13 +1,12 @@
 # 👋 Hi there! I'm Scott
-🎓 Upcoming BS in Computer Science & BFA in Theatre from Westminster University (27')
 
-💻 Interests: Web & Software Development | Generative AI | UI/UX Design 
-
-🌎 Currently building: "Swiftian" My Own Language based off of Taylor Swift Lyrics :) 
-
-📫 Reach me at: scottalvaro@icloud.com &nbsp;
+* 🎓 Upcoming BS in Computer Science & BFA in Theatre from Westminster University (27')
+* 💻 Interests: Web & Software Development | Generative AI | UI/UX Design
+* 🌎 Currently building: "Swiftian" My Own Language based off of Taylor Swift Lyrics :)
+* 📫 Reach me at: scottalvaro@icloud.com
 
 ---
+
 ### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
