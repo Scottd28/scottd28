@@ -8,12 +8,6 @@
 📫 Reach me at: scottalvaro@icloud.com &nbsp;
 
 ---
-
-### 🧠 Languages & Tools
-... (The rest of your code)
-
----
-
 ### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
