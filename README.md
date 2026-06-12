@@ -1,15 +1,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="banner.png" width="100%">
+      <img src="hello!!!.png" width="100%">
       <br>
-      <h1>Hello! My name is Scott.</h1>
-      <p>Software Engineering Intern at Lendio</p>
     </td>
   </tr>
 </table>
 
-I'm a Software Engineering Intern at Lendio and a student pursuing degrees in Computer Science and Theatre. I enjoy building software, creating intuitive user experiences, and exploring how AI can enhance everyday applications.
 
 * 🎓 Upcoming **BS in Computer Science** & BFA in Theatre from Westminster University ('27)
 * 💻 Interests: Web & Software Development | Generative AI | UI/UX Design
