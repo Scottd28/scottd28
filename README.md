@@ -25,3 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?logo=visualstudiocode)
+![PHP](https://img.shields.io/badge/-PHP-333?logo=php)
+![Angular](https://img.shields.io/badge/-Angular-333?logo=angular)
+![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3)
