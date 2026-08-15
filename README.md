@@ -1,23 +1,84 @@
-<h1> hi :) my name is scott and this is my github!!! </h1>
+# 👋 Hi, I'm Scott!
 
-* 🎓 Upcoming **BS in Computer Science** & BFA in Theatre from Westminster University ('27)
-* 💻 Interests: Web & Software Development | Generative AI | UI/UX Design
-* 📫 Reach me at: **scottalvaro@icloud.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Theatre+%F0%9F%8E%AD;Building+things+for+the+web+%F0%9F%92%BB;Designing+interfaces+%F0%9F%8E%A8;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <i>Developer • Designer • Theatre Artist</i>
+</p>
 
 ---
 
-## 🧠 Languages & Tools
+### 🧑‍💻 About Me
 
-![Python](https://img.shields.io/badge/-Python-333?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
-![React](https://img.shields.io/badge/-React-333?logo=react)
-![C](https://img.shields.io/badge/-C-333?logo=c)
-![Java](https://img.shields.io/badge/-Java-333?logo=openjdk)
-![ANTLR](https://img.shields.io/badge/-ANTLR-333)
-![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-333?logo=visualstudiocode)
-![PHP](https://img.shields.io/badge/-PHP-333?logo=php)
-![Angular](https://img.shields.io/badge/-Angular-333?logo=angular)
-![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3)
+🎓 **BS Computer Science + BFA Theatre** @ Westminster University — Class of 2027
+
+💻 I like building things for the web, experimenting with **Generative AI**, and creating interfaces that are actually fun to use.
+
+🎭 When I'm not coding, I'm probably working on something theatre-related.
+
+🎨 I care about the intersection of **technology, design, and storytelling.**
+
+📫 **Email:** [scottalvaro@icloud.com](mailto:scottalvaro@icloud.com)
+
+---
+
+### 🚀 What I'm Into
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   💻 Web Development                         │
+│   🤖 Generative AI                           │
+│   🎨 UI / UX Design                          │
+│   🎭 Theatre + Technology                    │
+│   🧠 Programming Languages & Compilers       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,c,java,nodejs,git,vscode,php,angular,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ANTLR-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-333?style=for-the-badge" />
+</p>
+
+---
+
+### 🎬 A Little More About Me
+
+> I think the best software doesn't just *work* — it communicates.
+
+My background in theatre has made me especially interested in **how people interact with technology**, from the visual design of an interface to the way an application tells a story.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! ✨</i>
+</p>
