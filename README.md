@@ -51,14 +51,6 @@
   <img src="https://img.shields.io/badge/UI%2FUX-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20AI-333?style=for-the-badge" />
 </p>
-
----
-
-### 🎬 A Little More About Me
-
-> I think the best software doesn't just *work* — it communicates.
-
-My background in theatre has made me especially interested in **how people interact with technology**, from the visual design of an interface to the way an application tells a story.
 ---
 
 <p align="center">
