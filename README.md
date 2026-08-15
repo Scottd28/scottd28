@@ -1,13 +1,4 @@
 <h1> hi :) my name is scott and this is my github!!! </h1>
-<table>
-  <tr>
-    <td align="center">
-      <img src="hello!!!.png" width="100%">
-      <br>
-    </td>
-  </tr>
-</table>
-
 
 * 🎓 Upcoming **BS in Computer Science** & BFA in Theatre from Westminster University ('27)
 * 💻 Interests: Web & Software Development | Generative AI | UI/UX Design
