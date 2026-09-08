@@ -1,9 +1,15 @@
 ## Hello! My name is Scott :) Welcome to my Github 
 Im a computer Science Senior at Westminster University graduating in May 2027.
+<ul>
+  <li>UI/UX</li>
+  <li>AI Development</li>
+  <li>Fullstack Engineering</li>
+  <li>Game Rendering</li>
+  <li>Open to any conversation!</li>
+</ul>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,c,java,nodejs,git,vscode,php,angular,html,css" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/ANTLR-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-333?style=for-the-badge" />
