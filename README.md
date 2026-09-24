@@ -9,15 +9,8 @@
   <a href="https://www.linkedin.com/in/scottDSG">LinkedIn</a>
 </p>
 
----
-
-### About
-
 I'm a Computer Science Senior at Westminster University, graduating May 2027.
-
 I'm primarily interested in **full-stack development**, with a background in **UI/UX** and **AI development**.
-
-### Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,php,c,html,css,git" />
