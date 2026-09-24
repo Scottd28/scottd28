@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/scottDSG">LinkedIn</a>
 </p>
 
-I'm primarily interested in **full-stack development**, with a background in **UI/UX** and **AI development**, but open to any conversations!
+I'm interested in **full-stack development**, with a background in **UI/UX** and **AI development**, but open to any conversations!
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,php,c,html,css,git" />
