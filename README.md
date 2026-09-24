@@ -1,5 +1,6 @@
-## Hello! My name is Scott :) Welcome to my Github 
-Im a computer Science Senior at Westminster University graduating in May 2027.
+## Hello! My name is Scott :) Welcome to my GitHub.
+<p>I'm a computer Science Senior at Westminster University graduating in May 2027.</p>
+<p>I'm mostly looking for Junior Dev positions (*hopefully fullstack, but I'm open*). I have a previous background in UI/UX and AI development</p>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,c,java,nodejs,git,vscode,php,angular,html,css" />
 </p>
