@@ -15,8 +15,3 @@ I'm primarily interested in **full-stack development**, with a background in **U
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,php,c,html,css,git" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ANTLR-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-333?style=for-the-badge" />
-</p>
